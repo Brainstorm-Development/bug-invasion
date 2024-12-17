@@ -1,0 +1,18 @@
+{
+  "name": "bug-invasion",
+  "version": "1.0.0",
+  "description": "A fun JavaScript library to add walking bugs to your page that users can click to remove.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"bugs\"",
+    "\"fun\"",
+    "\"javascript\"",
+    "\"npm-package\"",
+    "\"invasion\""
+  ],
+  "author": "Brainstorm Development",
+  "license": "MIT"
+}
